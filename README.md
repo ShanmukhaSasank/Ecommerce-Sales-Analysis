@@ -115,7 +115,7 @@ This project demonstrates a complete end-to-end analytics workflow — from raw 
 ## 👤 Author
 
 **Shanmukha Sasank Nandula**
-Data Analyst — Python · SQL · Power BI
+(Data Analyst — Python · SQL · Power BI)
 
 - 🔗 LinkedIn: [linkedin.com/in/sasank-nandula](https://linkedin.com/in/sasank-nandula)
 - 💻 GitHub: [github.com/ShanmukhaSasank](https://github.com/ShanmukhaSasank)
